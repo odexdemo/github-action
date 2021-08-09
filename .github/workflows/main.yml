@@ -13,4 +13,4 @@ jobs:
         username: odoo
         password: odoo1234!
         port: 22
-        script: whoami
+        script: sh pull_hr_pre.sh
